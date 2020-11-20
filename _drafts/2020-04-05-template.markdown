@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Change this title"
+date:  2016-05-07 13:00:00 -0500
+categories: podcast
+file:   https://archive.org/download/SpilledPopcorn/filename.mp3
+duration: "28:17" #audio length in min
+length: "25214976" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
+---
+Episode Notes:  Update these notes
